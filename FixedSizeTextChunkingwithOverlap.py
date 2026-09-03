@@ -86,7 +86,7 @@ def fixed_size_chunking(
 
       chunks.append(chunk)
 
-      if i+chunk_size > len(text):
+      if i+chunk_size >= len(text):
         break
       
     return chunks 
