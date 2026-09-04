@@ -1,6 +1,6 @@
 # LLM Problem Solving Lab
 
-This repository contains a collection of beginner-friendly problem-solving exercises focused on linear algebra and coding practice.
+This repository contains a collection of problem-solving exercises.
 
 ## Exercise Sources
 
